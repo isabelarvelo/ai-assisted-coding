@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "ai-assisted-coding"
+  site-url: "https://isabelarvelo.github.io/ai-assisted-coding"
+  description: "cloned repo for final project"
+  repo-branch: main
+  repo-url: "https://github.com/isabelarvelo/ai-assisted-coding"
